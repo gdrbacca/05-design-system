@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@gdrbacca-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@gdrbacca-ignite-ui/eslint-config": "*",
+    "@gdrbacca-ignite-ui/react": "*",
+    "@gdrbacca-ignite-ui/tokens": "*",
+    "@gdrbacca-ignite-ui/ts-config": "*",
     "@storybook/addon-essentials": "^7.6.6",
     "@storybook/addon-interactions": "^7.6.6",
     "@storybook/addon-links": "^7.6.6",
