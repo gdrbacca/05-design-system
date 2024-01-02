@@ -1,4 +1,4 @@
-import { Box, Text, CheckBox, CheckBoxProps } from '@ignite-ui/react'
+import { Box, Text, CheckBox, CheckBoxProps } from '@gdrbacca-ignite-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {
