@@ -29,6 +29,7 @@ export const Primary: StoryObj<TextInputProps> = {
 export const WithPrefix: StoryObj<TextInputProps> = {
   args: {
     prefix: 'arg.com',
+    placeholder: 'your-username',
   },
 }
 
