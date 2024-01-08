@@ -1,0 +1,3 @@
+import{j as e}from"./jsx-runtime-6eef64cc.js";import{d as i,B as m}from"./index-cd882487.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./extends-98964cd2.js";import"./index-169ee69c.js";const g={title:"Form/Tooltip",component:i,args:{date:"26 de Outubro",availability:"disponível"},decorators:[a=>e.jsx(m,{css:{width:"$64",backgroundColor:"$gray500"},children:a()})]},r={args:{}};var o,t,s;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {}
+}`,...(s=(t=r.parameters)==null?void 0:t.docs)==null?void 0:s.source}}};const x=["Primary"];export{r as Primary,x as __namedExportsOrder,g as default};

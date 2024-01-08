@@ -1,0 +1,3 @@
+import{j as e}from"./jsx-runtime-6eef64cc.js";import{c as m,B as i}from"./index-cd882487.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./extends-98964cd2.js";import"./index-169ee69c.js";const l={title:"Form/Toast",component:m,args:{message:"Agendamento realizado",date:"Quarta-feira, 25 de outubro às 16h"},decorators:[t=>e.jsx(i,{css:{width:"$80",backgroundColor:"$gray900"},children:t()})]},r={args:{}};var o,a,s;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {}
+}`,...(s=(a=r.parameters)==null?void 0:a.docs)==null?void 0:s.source}}};const x=["Primary"];export{r as Primary,x as __namedExportsOrder,l as default};

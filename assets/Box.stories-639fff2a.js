@@ -1,0 +1,3 @@
+import{j as s}from"./jsx-runtime-6eef64cc.js";import{B as a,T as m}from"./index-cd882487.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./extends-98964cd2.js";import"./index-169ee69c.js";const l={title:"Surfaces/Box",component:a,args:{children:s.jsx(s.Fragment,{children:s.jsx(m,{children:"Testanrewd"})})}},r={args:{}};var e,o,t;r.parameters={...r.parameters,docs:{...(e=r.parameters)==null?void 0:e.docs,source:{originalSource:`{
+  args: {}
+}`,...(t=(o=r.parameters)==null?void 0:o.docs)==null?void 0:t.source}}};const u=["Primary"];export{r as Primary,u as __namedExportsOrder,l as default};
