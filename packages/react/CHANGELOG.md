@@ -1,5 +1,11 @@
 # @ignite-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- 2 new components added. Tooltip and Toast
+
 ## 3.0.1
 
 ### Patch Changes
